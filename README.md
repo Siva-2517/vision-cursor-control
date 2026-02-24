@@ -118,25 +118,7 @@ Tune parameters directly in `GestureCursor.py`, such as:
 
 ---
 
-## Resume Description (Placement-Ready)
 
-```text
-Advanced Hand Gesture Mouse Control System
-• Designed and built a real-time computer-vision interaction system for touchless cursor, click, scroll, and zoom control.
-• Implemented landmark-based geometric gesture classification using MediaPipe hand landmarks and normalized distance features.
-• Applied exponential smoothing for stable pointer trajectories and improved user control quality.
-• Engineered cooldown-based debouncing to minimize repeated gesture triggers and improve interaction reliability.
-• Tech Stack: Python, OpenCV, MediaPipe, PyAutoGUI, NumPy.
-```
-
-### Suggested Interview Talking Points
-
-1. Real-time system design under webcam input constraints
-2. Landmark-based geometric gesture detection strategy
-3. Smoothing and debouncing trade-offs for better UX
-4. Integration of CV pipeline with OS automation events
-
----
 
 ## Troubleshooting
 
@@ -159,6 +141,7 @@ Advanced Hand Gesture Mouse Control System
 
 ## Author
 
+Siva Surya P
 **Computer Vision & AI Enthusiast**
 
 ---
@@ -171,7 +154,3 @@ Advanced Hand Gesture Mouse Control System
 - Not optimized for low-power embedded devices.
 
 Future versions can incorporate ML-based gesture classification for improved robustness.
-
-## License
-
-MIT License
