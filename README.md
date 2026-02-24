@@ -142,6 +142,7 @@ Tune parameters directly in `GestureCursor.py`, such as:
 ## Author
 
 Siva Surya P
+
 **Computer Vision & AI Enthusiast**
 
 ---
